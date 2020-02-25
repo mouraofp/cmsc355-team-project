@@ -4,7 +4,7 @@ The team is to meet for 10 days during the two-week sprint - 5 meetings per week
 Question    |          Person                                             | day | day | day | day | day | day | day |day | day | day |
 ------------|---------------------------------------------------------------------|-----|-----|-----|-----|-----|-----|-----|----|-----|-----|                                                              
 | What did you complete since the last meeting? | Teammate 1 |   
-|            | Teammate 2 |   
+|            | Teammate 2 |   k
 |            | Teammate 3 |   
 |            | Teammate 4 |
 | What will you accomplish before the next meeting? | Teammate 1 | 
